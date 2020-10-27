@@ -54,3 +54,7 @@ Application Details:
 * The RStudio presentation slides is published to RPubs at: https://rpubs.com/roshankhat/Roshan_StockGraph
 * Git repository at: https://github.com/roshan-khat42/Shiny-Application-and-Reproducible-Pitch
 
+# Glimpse
+![](img.png)
+
+
