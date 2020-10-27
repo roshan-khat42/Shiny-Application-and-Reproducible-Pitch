@@ -35,3 +35,22 @@ Presentation must satisfy the following
 2. It must be 5 pages
 3. It must be hosted on github or Rpubs
 4. It must contained some embedded R code that gets run when slidifying the document
+
+# Application - Stock Market Chart
+
+This Shiny Application let user explore share market metrics in terms of graph. The charts are interactive. User can choose any ticker they want to input (for example : Facebook as "FB",Apple as  "AAPL",Tesla as "TSLA"). User can input dates ranges as they desire and  to zoom, user can click on the chart and drag to select a time period. 
+
+The repository consists of three final files:
+* ui.R
+* server.R
+* README.md
+* stockCode.R
+
+
+The ui.R and server.R are the code for the shiny application:https://roshank.shinyapps.io/StockRshiny/
+
+Application Details:
+* The shiny application is deployed on ShinyApps.io server at: https://roshank.shinyapps.io/StockRshiny/
+* The RStudio presentation slides is published to RPubs at: https://rpubs.com/roshankhat/Roshan_StockGraph
+* Git repository at: https://github.com/roshan-khat42/Shiny-Application-and-Reproducible-Pitch
+
